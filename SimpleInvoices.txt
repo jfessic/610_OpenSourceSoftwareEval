@@ -1,0 +1,6 @@
+# Simple Invoices
+
+Simple Invoices is an open source invoicing software that is php/mysql based, intended to be run on a web server.  In 2013, I installed Simple Invoices for my father's business on the shared web host that he was using for his business website, and we continued using it until his retirement last year.  Back in 2013, he needed to change to an invoicing app that was easier to use because my mother had been using the previous system which was very complicated, and she passed away.  Besides being less complicated, the other requirement for a new app was that the invoice printout would allow him to continue using a very large quantity of envelopes he had on hand, so that the customer and return addresses would be printed on the invoice to align correctly with the cutouts in the envelopes.
+
+I was able to easily install Simple Invoices and begin testing it.  The default print format did not conform to his envelopes, however I was pretty easily able to figure out how to modify the output style sheet.  In a few hours, most of which was spent making just small tweaks, we were cranking out invoices on this new and much easier system.  It greatly helped that I have prior experience with php, mysql, html, css, and web site configuration.  As a result of this new approach, he was able to do his billing from anywhere he had web access.
+
